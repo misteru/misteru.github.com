@@ -1,8 +1,6 @@
 ---
 layout: post
 title: WordPress错误：前后台一片空白
-categories:
-- geek
 tags : 
   - geek
 ---

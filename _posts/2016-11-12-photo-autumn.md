@@ -1,8 +1,6 @@
 ---
 title: 秋(图)
 layout: post
-categories:
-- photography
 tags:
   - photography
 ---

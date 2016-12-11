@@ -1,8 +1,6 @@
 ---
 title: 开学(图)
 layout: post
-categories:
-- writing
 tags:
   - writing
 ---

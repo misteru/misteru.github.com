@@ -1,8 +1,6 @@
 ---
 title: 西瓜节
 layout: post
-categories:
-- writing
 tags:
   - writing
 ---

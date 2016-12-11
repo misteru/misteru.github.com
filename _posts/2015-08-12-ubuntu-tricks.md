@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Ubuntu14.04lts下ibus多语言输入配置(附ubuntu截图方案)
-categories:
-- geek
 tags :
   - geek
 ---

@@ -1,8 +1,6 @@
 ---
 title: textureless template matching
 layout: post
-categories:
-- writing
 tags:
   - writing
 ---

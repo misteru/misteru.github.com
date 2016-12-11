@@ -1,8 +1,6 @@
 ---
 title: 泛函functional
 layout: post
-categories:
-- writing
 tags:
   - writing
 ---

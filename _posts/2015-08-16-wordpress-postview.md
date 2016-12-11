@@ -1,8 +1,6 @@
 ---
 layout: post
 title: WordPress插件wp-postviews显示文章访问量的使用方法 
-categories:
-- geek
 tags :
   - geek
 ---

@@ -1,8 +1,6 @@
 ---
 title: Linux之make的用法(Makefile描述规则)
 layout: post
-categories:
-- geek
 tags:
   - geek
 ---

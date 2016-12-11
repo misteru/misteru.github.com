@@ -1,8 +1,6 @@
 ---
 layout: post
 title: wordpress小技巧：替换更改登陆页面logo与链接
-categories:
-- geek
 tags :
   - geek
 ---

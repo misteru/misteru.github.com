@@ -1,8 +1,6 @@
 ---
 title: Visual Studio 2010下正确配置Dlib
 layout: post
-categories:
-- programming
 tags:
   - programming
 ---

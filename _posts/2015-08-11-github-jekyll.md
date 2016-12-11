@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 用GitHub+Jekyll搭设个人博客网站
-categories:
-- geek
 tags : 
   - geek
 ---

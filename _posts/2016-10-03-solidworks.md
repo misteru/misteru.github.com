@@ -1,8 +1,6 @@
 ---
 title: solidworks
 layout: post
-categories:
-- writing
 tags:
   - writing
 ---

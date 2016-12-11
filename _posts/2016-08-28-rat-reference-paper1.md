@@ -1,8 +1,6 @@
 ---
 title: 七录七焚-值得精读的东西
 layout: post
-categories:
-- writing
 tags:
   - writing
 ---

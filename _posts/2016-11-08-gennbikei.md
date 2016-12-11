@@ -1,8 +1,6 @@
 ---
 title: 泥鼻溪(图)
 layout: post
-categories:
-- photography
 tags:
   - photography
 ---

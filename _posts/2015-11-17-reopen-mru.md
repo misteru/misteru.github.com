@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 时隔许久重新启用github时候简化需要做的事情
-categories:
-- geek
 tags:
   - geek
 ---

@@ -1,8 +1,6 @@
 ---
 title: 图像识别科研领域与应用领域究竟有多大的鸿沟
 layout: post
-categories:
-- programming
 tags:
   - programming
 ---

@@ -1,8 +1,6 @@
 ---
 title: 再别让坏情绪毁了生活
 layout: post
-categories:
-- writing
 tags:
   - writing
 ---

@@ -1,8 +1,6 @@
 ---
 title: 没有单反也可以谈摄影(图)
 layout: post
-categories:
-- photography
 tags:
   - photography
 ---

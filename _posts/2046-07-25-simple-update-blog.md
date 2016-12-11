@@ -1,8 +1,6 @@
 ---
 title: 要常常更新哦^_^
 layout: post
-categories:
-- writing
 tags:
   - writing
 ---

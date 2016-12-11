@@ -1,4 +1,0 @@
-<section class="comment">
-
-</section>
-

@@ -1,8 +1,6 @@
 ---
 title: 厨艺(图)
 layout: post
-categories:
-- photography
 tags:
   - photography
 ---

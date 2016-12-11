@@ -1,8 +1,6 @@
 ---
 title: 高松池赏花(图)
 layout: post
-categories:
-- photography
 tags:
   - photography
 ---

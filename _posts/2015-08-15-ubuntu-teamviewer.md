@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Ubuntu下teamviewer自启动式远程协作
-categories:
-- geek
 tags :
   - geek
 ---

@@ -1,8 +1,6 @@
 ---
 title: 超极本与车载音响
 layout: post
-categories:
-- writing
 tags:
   - writing
 ---

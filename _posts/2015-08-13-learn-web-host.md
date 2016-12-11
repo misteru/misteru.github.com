@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 学计算机专业这么些年突然对搭建网页工程感兴趣了
-categories:
-- writing
 tags :
   - writing
 ---

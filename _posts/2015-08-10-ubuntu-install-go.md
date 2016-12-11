@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 安装配置Go编程语言(Ubuntu14.04lts)
-categories:
-- programming
 tags :
-- programming
+  - programming
 ---
 
 

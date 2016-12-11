@@ -1,8 +1,6 @@
 ---
 title: 让笔记本也能更新github博客
 layout: post
-categories:
-- geek
 tags:
   - geek
 ---

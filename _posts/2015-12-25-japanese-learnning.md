@@ -1,8 +1,6 @@
 ---
 title: 学日语
 layout: post
-categories:
-- japanese
 tags:
   - japanese
 ---

@@ -1,8 +1,6 @@
 ---
 title: 使用OpenCV画曲线图
 layout: post
-categories:
-- programming
 tags:
   - programming
 ---

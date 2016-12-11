@@ -1,8 +1,6 @@
 ---
 title: vs2010下面编译过的opencv程序搬到新的笔记本上运行不了
 layout: post
-categories:
-- programming
 tags:
   - programming
 ---

@@ -1,8 +1,6 @@
 ---
 title: 奥中山(图)
 layout: post
-categories:
-- photography
 tags:
   - photography
 ---

@@ -1,8 +1,6 @@
 ---
 title: 接待来访
 layout: post
-categories:
-- writing
 tags:
   - writing
 ---

@@ -1,8 +1,6 @@
 ---
 title: 小米
 layout: post
-categories:
-- writing
 tags:
   - writing
 ---

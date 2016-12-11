@@ -1,8 +1,6 @@
 ---
 title: A word for a world
 layout: post
-categories:
-- writing
 tags:
   - writing
 ---

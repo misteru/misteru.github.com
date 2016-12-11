@@ -1,8 +1,6 @@
 ---
 title: chicken soup for the soul
 layout: post
-categories:
-- geek
 tags:
   - geek
 ---

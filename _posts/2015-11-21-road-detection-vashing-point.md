@@ -1,8 +1,6 @@
 ---
 title: 道路检测与道路尽头消失点搜索算法实现资料整理
 layout: post
-categories:
-- programming
 tags:
   - programming
 ---

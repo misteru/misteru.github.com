@@ -1,8 +1,6 @@
 ---
 title: 新习惯
 layout: post
-categories:
-- writing
 tags:
   - writing
 ---

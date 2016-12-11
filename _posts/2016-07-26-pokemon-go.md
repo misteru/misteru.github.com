@@ -1,8 +1,6 @@
 ---
 title: pokemon热
 layout: post
-categories:
-- writing
 tags:
   - writing
 ---
