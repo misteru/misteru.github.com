@@ -1,0 +1,7 @@
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:title/
+url: http://misteru.github.io
+author: Mr.U
+pygments: true
+paginate: 24
