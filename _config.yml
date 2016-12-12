@@ -4,9 +4,7 @@ name: "Mr. U"
 markdown: kramdown
 
 author: "Mr. U"
-
-gems:
-  - jekyll-feed
+atom-baseurl: "http://misteru.github.io"
 
 navigations:
   - title: Archive
@@ -23,5 +21,4 @@ navigations:
     href: http://misteru.github.io
   - title: Subscribe
     class: fa fa-rss
-    href: /feed.xml
-
+    href: /atom.xml
