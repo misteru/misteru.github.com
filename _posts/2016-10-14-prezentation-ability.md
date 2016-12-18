@@ -1,11 +1,9 @@
-﻿---
-title: 発表
+---
+title: 发表
 layout: post
 tags:
   - writing
 ---
-
-
 
 #### 2016-12-17 记于东北支部研究会发表之后
 
