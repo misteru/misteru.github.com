@@ -1,9 +1,13 @@
 ---
-title: 泛函functional
+title: 泛函
 layout: post
 tags:
   - writing
 ---
+
+#### functional
+
+今天才知道原来functional不是fuction写错了,而是数学用语"泛函"的意思啊.
 
 #### 发现知识空白区
 
