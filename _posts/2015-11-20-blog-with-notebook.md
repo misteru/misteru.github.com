@@ -1,5 +1,5 @@
 ---
-title: 让笔记本也能更新github博客(图)
+title: 更新Mr.U(图)
 layout: post
 tags:
   - geek

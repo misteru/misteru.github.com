@@ -1,5 +1,5 @@
 ---
-title: 学日语
+title: 日语词汇
 layout: post
 tags:
   - japanese
