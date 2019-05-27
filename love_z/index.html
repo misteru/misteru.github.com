@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -7,7 +7,7 @@
 <style type="text/css">
 @font-face {
 	font-family: digit;
-	src: url('digital-7_mono.ttf') format("truetype");
+	src: url('css/digital-7_mono.ttf') format("truetype");
 }
 </style>
 
@@ -15,11 +15,77 @@
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/garden.js"></script>
 <script type="text/javascript" src="js/functions.js"></script>
-
 </head>
 
 <body>
-
+<!-- 音乐 start-->
+<span id="musicControl">
+        <a id="mc_play" class="on" onclick="play_music();">
+            <audio id="musicfx" loop="loop" autoplay="autoplay">
+                <source src="mp3/miss_u.mp3" type="audio/mpeg">
+            </audio>
+        </a>
+ </span>
+<!-- 音乐 end-->
+<!-- music -->
+<script>
+    function play_music(){
+        if ($('#mc_play').hasClass('on')){
+            $('#mc_play audio').get(0).pause();
+            $('#mc_play').attr('class','stop');
+        }else{
+            $('#mc_play audio').get(0).play();
+            $('#mc_play').attr('class','on');
+        }
+        $('#music_play_filter').hide();
+        event.stopPropagation(); //阻止冒泡
+    }
+    function just_play(id){
+        $('#mc_play audio').get(0).play();
+        $('#mc_play').attr('class','on');
+        if (typeof(id)!='undefined'){
+            $('#music_play_filter').hide();
+        }
+        event.stopPropagation(); //阻止冒泡
+    }
+    function is_weixn(){
+        return false;
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.match(/MicroMessenger/i)=="micromessenger") {
+            return true;
+        } else {
+            return false;
+        }
+    }
+    var play_filter=document.getElementById('music_play_filter');
+    play_filter.addEventListener('click', function(){
+        just_play(1);
+    });
+    play_filter.addEventListener('touchstart', function(){
+        just_play(1);
+    });
+    play_filter.addEventListener('touchend', function(){
+        just_play(1);
+    });
+    play_filter.addEventListener('touchmove', function(){
+        just_play(1);
+    });
+    play_filter.addEventListener('mousedown', function(){
+        just_play(1);
+    });
+    play_filter.addEventListener('mouseup', function(){
+        just_play(1);
+    });
+    play_filter.addEventListener('mousemove',function(){
+        just_play(1);
+    });
+    window.onload=function(){
+        if (!is_weixn()){
+            just_play();
+        }
+    }
+</script>
+ 
 <div id="mainDiv">
 	<div id="content">
 		<div id="code">
@@ -104,6 +170,7 @@ if (!document.createElement('canvas').getContext) {
 	$("#code").typewriter();
 }
 </script>
-
+<script type="text/javascript" src="js/snowflakes.min.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
 </body>
 </html>
